@@ -12,7 +12,6 @@ import Home from './Home';
 function App() {
   const handleFormSubmit = (employeeData) => {
     console.log('Form submitted with data:', employeeData);
-    // Add your logic to handle the form submission data
   };
 
   return (
