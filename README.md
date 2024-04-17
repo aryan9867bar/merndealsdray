@@ -1,7 +1,9 @@
 merndealsdray:
+
 This is a MERN stack application designed to manage and display employee information, including authentication features.
 
 Technical Description:
+
 The Employee Management System is a MERN (MongoDB, Express.js, React.js, Node.js) stack application designed to streamline the process of managing employee data within an organization. 
 The backend, built with Node.js and Express.js, serves as the API endpoint for CRUD operations on employee records, leveraging MongoDB as the database for persistent data storage. 
 RESTful routes are implemented to handle requests for creating, reading, updating, and deleting employee information. User authentication and authorization are enforced using JSON Web Tokens (JWT) 
