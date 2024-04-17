@@ -14,7 +14,7 @@ app.use(bodyParser.json());
 
 const upload = multer({ dest: 'uploads/' });
 
-mongoose.connect('mongodb://localhost:27017/self')
+mongoose.connect('mongodb://localhost:27017/merndealsdray')
 .then(() => console.log('MongoDB connected'))
 .catch(err => console.log(err));
 
